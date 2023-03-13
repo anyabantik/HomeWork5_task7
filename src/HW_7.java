@@ -5,8 +5,8 @@ import java.io.BufferedReader;
 import java.util.ArrayList;
 import java.util.List;
 
-public class HW_7 {
 
+public class HW_7 {
     //Прочитать файл (INPUT), в выходной файл (OUTPUT) записать все
     //строки из первого, но в обратном порядке (первая строка должна быть последней).
     public static void main(String[] args) throws IOException {
